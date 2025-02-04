@@ -1,4 +1,4 @@
 sum=0
-for n in range (3, 261, 3):
+for n in range (5, 286, 5):
     sum=sum+n
 print(sum)

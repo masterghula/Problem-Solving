@@ -1,7 +1,7 @@
 import numpy
 
 def T1(n):
-    return 0.0045*n**3
+    return 0.007*n**3
 def T2(n):
     return (0.36*n**2) + (0.15*n)
 n=numpy.linspace(1,1000, 1000)

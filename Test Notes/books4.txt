@@ -1,0 +1,388 @@
+Book 757, Taylor Taylor, Penguin Random House, 561, 8.88
+Book 680, Chris Wilson, HarperCollins, 628, 14.51
+Book 805, Alex Miller, Macmillan, 949, 49.72
+Book 645, Alex Johnson, Penguin Random House, 936, 49.29
+Book 898, Sam Smith, Hachette, 966, 46.05
+Book 245, Sam Thomas, HarperCollins, 756, 48.96
+Book 181, John Taylor, Macmillan, 624, 30.77
+Book 641, Taylor Davis, HarperCollins, 831, 44.88
+Book 320, Jordan Moore, HarperCollins, 743, 11.94
+Book 370, Morgan Brown, Penguin Random House, 528, 26.51
+Book 233, Casey Moore, Macmillan, 305, 12.05
+Book 812, Casey Smith, Penguin Random House, 841, 31.80
+Book 470, Alex Wilson, Penguin Random House, 743, 29.36
+Book 602, Jordan Wilson, Macmillan, 950, 33.19
+Book 163, Emily Davis, Simon & Schuster, 462, 35.36
+Book 22, Alex Brown, Macmillan, 943, 6.70
+Book 528, Morgan Johnson, Simon & Schuster, 792, 25.43
+Book 929, Alex Moore, Macmillan, 759, 11.70
+Book 93, John Miller, Hachette, 931, 14.04
+Book 178, Emily Johnson, Penguin Random House, 657, 34.25
+Book 225, Alex Wilson, HarperCollins, 310, 48.68
+Book 794, Casey Taylor, Penguin Random House, 531, 29.96
+Book 62, Taylor Davis, Simon & Schuster, 944, 15.61
+Book 438, John Wilson, HarperCollins, 913, 9.42
+Book 560, Jordan Smith, Penguin Random House, 795, 48.92
+Book 889, Taylor Smith, Hachette, 755, 25.01
+Book 537, Emily Miller, Simon & Schuster, 136, 36.19
+Book 598, Alex Anderson, Penguin Random House, 651, 18.43
+Book 448, Jordan Davis, Penguin Random House, 365, 25.57
+Book 841, Sam Davis, Hachette, 804, 8.43
+Book 793, Taylor Smith, Simon & Schuster, 627, 12.31
+Book 117, Alex Wilson, Penguin Random House, 150, 10.43
+Book 891, Taylor Moore, Hachette, 100, 27.62
+Book 902, Sam Wilson, Simon & Schuster, 359, 42.10
+Book 673, Alex Davis, Simon & Schuster, 677, 32.14
+Book 52, Taylor Davis, Penguin Random House, 637, 28.56
+Book 347, Jane Davis, Hachette, 481, 6.11
+Book 743, Casey Thomas, HarperCollins, 584, 18.15
+Book 266, Alex Johnson, Penguin Random House, 341, 31.44
+Book 418, Chris Brown, Simon & Schuster, 490, 24.92
+Book 849, Chris Thomas, Penguin Random House, 315, 32.20
+Book 338, Taylor Miller, Penguin Random House, 887, 33.32
+Book 22, Jane Thomas, Penguin Random House, 433, 42.31
+Book 778, John Miller, Simon & Schuster, 334, 23.09
+Book 142, Chris Anderson, Hachette, 910, 30.76
+Book 71, Chris Miller, Penguin Random House, 250, 10.12
+Book 822, Jane Brown, Simon & Schuster, 696, 46.79
+Book 246, Taylor Moore, HarperCollins, 765, 24.70
+Book 341, Morgan Anderson, Penguin Random House, 282, 14.45
+Book 134, Emily Thomas, HarperCollins, 485, 8.57
+Book 449, Jane Brown, HarperCollins, 825, 21.54
+Book 596, Chris Johnson, Hachette, 329, 24.37
+Book 920, Taylor Anderson, HarperCollins, 127, 15.75
+Book 774, John Wilson, Simon & Schuster, 731, 15.56
+Book 677, Chris Moore, Hachette, 854, 25.72
+Book 759, Jordan Miller, Simon & Schuster, 979, 17.81
+Book 871, Chris Thomas, HarperCollins, 350, 16.72
+Book 804, Taylor Brown, Macmillan, 931, 38.32
+Book 4, Morgan Wilson, Macmillan, 984, 35.05
+Book 150, Sam Brown, Penguin Random House, 871, 15.82
+Book 963, Taylor Davis, Hachette, 856, 30.28
+Book 995, Jane Brown, HarperCollins, 697, 8.00
+Book 796, John Moore, Penguin Random House, 230, 13.65
+Book 31, Taylor Brown, Simon & Schuster, 699, 34.40
+Book 611, Casey Wilson, HarperCollins, 490, 35.59
+Book 194, John Smith, Penguin Random House, 893, 32.37
+Book 463, John Moore, Simon & Schuster, 123, 6.02
+Book 219, Alex Taylor, HarperCollins, 984, 49.53
+Book 18, Taylor Davis, Macmillan, 242, 6.73
+Book 250, Alex Moore, Macmillan, 704, 8.62
+Book 471, Casey Thomas, Penguin Random House, 667, 30.79
+Book 870, Taylor Wilson, Simon & Schuster, 877, 15.83
+Book 680, Sam Davis, Hachette, 323, 12.26
+Book 563, Casey Johnson, Hachette, 269, 35.86
+Book 435, Emily Taylor, HarperCollins, 788, 23.19
+Book 878, Emily Taylor, HarperCollins, 696, 43.18
+Book 202, Emily Taylor, Macmillan, 213, 17.76
+Book 538, Emily Davis, Hachette, 822, 48.03
+Book 87, Sam Moore, Macmillan, 817, 21.60
+Book 210, John Taylor, Simon & Schuster, 626, 41.09
+Book 609, Morgan Smith, Macmillan, 284, 29.39
+Book 355, Jordan Smith, Simon & Schuster, 520, 12.78
+Book 179, Alex Brown, Simon & Schuster, 593, 41.75
+Book 733, Morgan Thomas, Penguin Random House, 102, 44.86
+Book 361, Alex Taylor, Macmillan, 851, 49.14
+Book 136, Casey Anderson, HarperCollins, 938, 30.58
+Book 424, John Johnson, Macmillan, 696, 11.37
+Book 372, Morgan Thomas, HarperCollins, 533, 25.44
+Book 757, Morgan Davis, HarperCollins, 987, 10.58
+Book 527, Sam Miller, HarperCollins, 872, 34.80
+Book 33, Chris Johnson, Penguin Random House, 498, 15.15
+Book 298, Emily Johnson, HarperCollins, 167, 26.22
+Book 414, Sam Johnson, Hachette, 399, 7.67
+Book 92, Emily Moore, HarperCollins, 941, 33.65
+Book 542, Sam Miller, Simon & Schuster, 681, 45.55
+Book 660, John Davis, HarperCollins, 854, 33.92
+Book 150, Jane Davis, HarperCollins, 558, 39.56
+Book 727, Alex Thomas, Penguin Random House, 765, 28.02
+Book 78, Jordan Moore, HarperCollins, 440, 25.57
+Book 191, Alex Taylor, Penguin Random House, 418, 39.58
+Book 559, Chris Johnson, HarperCollins, 229, 17.28
+Book 367, Emily Taylor, Macmillan, 576, 45.77
+Book 194, John Wilson, Macmillan, 381, 38.81
+Book 215, Chris Smith, HarperCollins, 746, 48.25
+Book 945, Jordan Taylor, Macmillan, 429, 10.59
+Book 768, Taylor Johnson, Macmillan, 1000, 48.09
+Book 886, Emily Davis, Hachette, 743, 8.31
+Book 917, Jordan Thomas, Hachette, 429, 23.50
+Book 324, Emily Davis, Penguin Random House, 418, 23.61
+Book 932, Emily Brown, HarperCollins, 577, 22.04
+Book 777, Chris Taylor, Macmillan, 215, 43.38
+Book 514, Jordan Moore, Macmillan, 962, 6.84
+Book 224, Casey Moore, Hachette, 190, 13.50
+Book 207, Alex Smith, Penguin Random House, 591, 40.69
+Book 795, Casey Taylor, Macmillan, 529, 18.17
+Book 563, Emily Smith, Macmillan, 515, 44.96
+Book 963, Morgan Johnson, Penguin Random House, 102, 31.18
+Book 975, Chris Smith, Macmillan, 291, 18.26
+Book 482, Alex Davis, Macmillan, 493, 44.58
+Book 271, Sam Wilson, Hachette, 342, 6.81
+Book 26, John Taylor, Macmillan, 877, 45.71
+Book 385, Casey Brown, Penguin Random House, 722, 27.97
+Book 187, Emily Smith, Macmillan, 128, 46.22
+Book 689, Emily Moore, HarperCollins, 236, 42.46
+Book 614, Taylor Miller, HarperCollins, 238, 21.45
+Book 784, Jordan Taylor, Penguin Random House, 472, 38.94
+Book 483, Morgan Taylor, HarperCollins, 730, 27.05
+Book 232, Chris Johnson, Simon & Schuster, 194, 47.90
+Book 895, Jane Thomas, Macmillan, 430, 34.01
+Book 11, Jordan Johnson, Macmillan, 943, 33.03
+Book 355, Jane Taylor, HarperCollins, 360, 30.16
+Book 400, Emily Smith, HarperCollins, 155, 40.33
+Book 819, Taylor Wilson, Hachette, 788, 36.08
+Book 374, John Anderson, Hachette, 273, 25.88
+Book 477, Casey Taylor, Penguin Random House, 455, 32.46
+Book 117, Morgan Moore, Simon & Schuster, 805, 45.84
+Book 855, Jordan Taylor, Macmillan, 952, 17.49
+Book 544, Morgan Miller, Simon & Schuster, 785, 24.02
+Book 760, Emily Smith, HarperCollins, 896, 47.21
+Book 58, Chris Thomas, Simon & Schuster, 687, 17.63
+Book 750, Morgan Davis, Simon & Schuster, 289, 36.14
+Book 443, Alex Wilson, Simon & Schuster, 692, 34.79
+Book 626, Alex Thomas, Hachette, 537, 9.34
+Book 775, Jane Smith, Hachette, 310, 39.88
+Book 39, Morgan Moore, HarperCollins, 399, 29.57
+Book 966, Jordan Brown, HarperCollins, 735, 44.26
+Book 991, Sam Taylor, HarperCollins, 334, 15.80
+Book 987, Morgan Moore, HarperCollins, 624, 31.53
+Book 820, Morgan Moore, HarperCollins, 619, 41.30
+Book 289, John Miller, Hachette, 867, 40.20
+Book 777, John Anderson, Simon & Schuster, 673, 41.17
+Book 473, Jordan Brown, Macmillan, 814, 21.89
+Book 88, John Moore, Hachette, 265, 44.09
+Book 732, Jordan Brown, Hachette, 145, 25.50
+Book 707, Jordan Moore, HarperCollins, 381, 31.74
+Book 454, Jordan Miller, Hachette, 413, 32.00
+Book 401, Jordan Brown, Simon & Schuster, 658, 11.47
+Book 388, Taylor Thomas, Penguin Random House, 462, 13.06
+Book 162, Jane Moore, HarperCollins, 710, 6.25
+Book 947, Chris Johnson, HarperCollins, 636, 20.92
+Book 435, Morgan Thomas, Hachette, 718, 48.85
+Book 861, Jane Johnson, HarperCollins, 334, 36.96
+Book 191, Casey Taylor, Penguin Random House, 168, 30.92
+Book 451, Emily Anderson, Hachette, 184, 9.98
+Book 166, Alex Johnson, HarperCollins, 527, 27.60
+Book 412, John Brown, HarperCollins, 653, 27.17
+Book 332, Sam Davis, Hachette, 770, 28.05
+Book 820, Alex Brown, Simon & Schuster, 719, 13.82
+Book 930, Casey Miller, Hachette, 314, 27.65
+Book 695, Jordan Smith, Simon & Schuster, 853, 15.78
+Book 224, Emily Smith, Simon & Schuster, 395, 27.05
+Book 643, John Thomas, Macmillan, 811, 43.27
+Book 178, Alex Taylor, Penguin Random House, 499, 20.73
+Book 829, Jane Wilson, Simon & Schuster, 116, 21.28
+Book 122, Jordan Anderson, Hachette, 523, 18.13
+Book 141, Chris Brown, Simon & Schuster, 353, 47.26
+Book 761, Jane Brown, Macmillan, 824, 24.98
+Book 329, Morgan Davis, Simon & Schuster, 532, 24.84
+Book 597, Taylor Taylor, HarperCollins, 876, 49.59
+Book 95, Jane Davis, Simon & Schuster, 170, 35.85
+Book 582, Casey Brown, HarperCollins, 670, 29.63
+Book 939, Alex Miller, HarperCollins, 408, 13.57
+Book 67, Jane Moore, Macmillan, 805, 11.81
+Book 691, Casey Davis, HarperCollins, 472, 41.06
+Book 280, Emily Smith, Hachette, 769, 35.99
+Book 494, John Smith, Penguin Random House, 117, 17.20
+Book 593, Jane Taylor, Macmillan, 308, 20.87
+Book 769, Jane Anderson, Macmillan, 958, 11.34
+Book 214, Jordan Thomas, Simon & Schuster, 606, 27.52
+Book 996, Morgan Anderson, Macmillan, 574, 33.35
+Book 477, Taylor Miller, Penguin Random House, 806, 39.11
+Book 906, John Davis, Simon & Schuster, 241, 45.71
+Book 775, Alex Miller, Macmillan, 403, 29.12
+Book 594, Alex Anderson, Penguin Random House, 526, 15.53
+Book 435, Chris Smith, Penguin Random House, 423, 15.98
+Book 833, Emily Moore, HarperCollins, 315, 33.80
+Book 806, Alex Davis, HarperCollins, 659, 38.78
+Book 302, Jordan Smith, Penguin Random House, 499, 25.47
+Book 809, Jane Anderson, Hachette, 920, 29.42
+Book 74, John Moore, Hachette, 211, 29.48
+Book 843, Chris Johnson, HarperCollins, 859, 41.08
+Book 233, Emily Brown, Penguin Random House, 399, 10.62
+Book 332, Taylor Davis, Hachette, 368, 48.01
+Book 264, Jane Brown, Hachette, 196, 30.19
+Book 236, Jordan Miller, Macmillan, 365, 15.79
+Book 249, Alex Davis, Simon & Schuster, 364, 49.36
+Book 632, Jane Davis, HarperCollins, 682, 42.18
+Book 575, Alex Wilson, HarperCollins, 293, 30.60
+Book 33, Sam Wilson, Penguin Random House, 403, 29.50
+Book 523, Alex Wilson, Penguin Random House, 408, 12.33
+Book 964, Taylor Miller, Penguin Random House, 639, 43.73
+Book 817, Casey Wilson, Hachette, 215, 9.93
+Book 936, Casey Anderson, Simon & Schuster, 822, 42.92
+Book 466, Emily Thomas, Hachette, 289, 13.62
+Book 704, Emily Thomas, HarperCollins, 813, 24.13
+Book 726, Casey Smith, Macmillan, 435, 35.51
+Book 724, Casey Taylor, HarperCollins, 786, 9.55
+Book 958, Jane Brown, Simon & Schuster, 385, 40.84
+Book 549, Chris Wilson, Hachette, 745, 9.64
+Book 300, Alex Taylor, Penguin Random House, 760, 15.80
+Book 720, Sam Davis, Hachette, 632, 44.99
+Book 941, Alex Davis, Penguin Random House, 105, 14.50
+Book 950, Emily Wilson, Macmillan, 509, 47.74
+Book 873, Sam Smith, Penguin Random House, 105, 7.81
+Book 468, Taylor Brown, Penguin Random House, 962, 28.50
+Book 567, Emily Anderson, Penguin Random House, 637, 27.77
+Book 630, Casey Moore, Penguin Random House, 921, 9.98
+Book 853, Emily Smith, Macmillan, 216, 16.11
+Book 336, Taylor Miller, Hachette, 235, 41.74
+Book 250, Chris Davis, Macmillan, 508, 16.29
+Book 338, Taylor Wilson, Penguin Random House, 163, 7.12
+Book 59, Morgan Moore, Hachette, 747, 9.39
+Book 97, Jane Brown, Hachette, 519, 42.06
+Book 365, Jane Taylor, Macmillan, 287, 19.52
+Book 774, John Davis, Simon & Schuster, 958, 8.08
+Book 996, Chris Thomas, Macmillan, 313, 36.13
+Book 826, Chris Brown, Simon & Schuster, 504, 21.02
+Book 703, Emily Johnson, Hachette, 628, 48.02
+Book 748, Chris Thomas, Simon & Schuster, 913, 36.73
+Book 919, Chris Taylor, Macmillan, 817, 39.26
+Book 948, Alex Smith, Simon & Schuster, 169, 34.82
+Book 908, Casey Moore, Macmillan, 268, 24.61
+Book 178, Sam Miller, Simon & Schuster, 387, 15.59
+Book 888, Taylor Brown, Simon & Schuster, 388, 33.40
+Book 493, Jordan Thomas, Macmillan, 194, 16.51
+Book 554, Taylor Anderson, Hachette, 851, 34.55
+Book 223, Casey Miller, HarperCollins, 373, 41.69
+Book 698, Emily Johnson, Macmillan, 636, 17.05
+Book 884, Chris Moore, HarperCollins, 474, 17.51
+Book 769, Chris Brown, Hachette, 215, 33.43
+Book 740, Sam Brown, Hachette, 262, 14.73
+Book 219, John Wilson, Hachette, 283, 10.70
+Book 704, Morgan Davis, Hachette, 409, 34.97
+Book 659, Alex Johnson, Penguin Random House, 306, 44.30
+Book 776, Casey Moore, Simon & Schuster, 689, 27.27
+Book 705, Alex Johnson, Penguin Random House, 427, 15.74
+Book 20, Taylor Miller, Penguin Random House, 898, 34.31
+Book 487, Sam Anderson, Simon & Schuster, 355, 39.68
+Book 588, John Brown, Simon & Schuster, 772, 23.26
+Book 485, Chris Moore, Penguin Random House, 273, 27.43
+Book 251, Morgan Davis, Simon & Schuster, 378, 25.72
+Book 646, Casey Moore, HarperCollins, 649, 27.07
+Book 362, Jordan Taylor, Hachette, 863, 36.07
+Book 850, Chris Moore, Penguin Random House, 654, 35.36
+Book 245, Jane Moore, Hachette, 954, 39.76
+Book 301, Chris Miller, HarperCollins, 409, 47.87
+Book 422, Taylor Smith, HarperCollins, 218, 26.95
+Book 59, Chris Moore, HarperCollins, 461, 22.54
+Book 244, Emily Taylor, Simon & Schuster, 937, 18.08
+Book 697, Sam Moore, Simon & Schuster, 505, 11.04
+Book 887, Morgan Smith, Hachette, 804, 17.14
+Book 843, Morgan Davis, Penguin Random House, 101, 32.79
+Book 821, Alex Brown, Hachette, 786, 42.16
+Book 732, Taylor Anderson, Simon & Schuster, 654, 9.54
+Book 765, Sam Johnson, Macmillan, 369, 30.41
+Book 436, Jane Davis, HarperCollins, 800, 34.50
+Book 38, John Davis, Macmillan, 886, 40.72
+Book 206, Taylor Miller, Penguin Random House, 793, 33.28
+Book 304, Chris Thomas, Macmillan, 358, 28.35
+Book 362, Emily Davis, Simon & Schuster, 463, 32.45
+Book 267, Jordan Taylor, Hachette, 557, 22.12
+Book 889, Jane Johnson, Hachette, 231, 34.85
+Book 439, Jane Anderson, Penguin Random House, 940, 23.09
+Book 389, Chris Anderson, Penguin Random House, 531, 9.76
+Book 824, Sam Anderson, HarperCollins, 808, 9.66
+Book 894, Jordan Taylor, Macmillan, 267, 42.51
+Book 353, Morgan Davis, Macmillan, 675, 33.13
+Book 504, Emily Smith, Penguin Random House, 180, 14.81
+Book 459, Emily Davis, Penguin Random House, 949, 22.14
+Book 197, Casey Brown, Penguin Random House, 783, 28.19
+Book 119, Emily Davis, Macmillan, 254, 33.63
+Book 594, John Smith, HarperCollins, 606, 17.99
+Book 850, Taylor Taylor, HarperCollins, 741, 39.25
+Book 118, Alex Thomas, Macmillan, 879, 46.93
+Book 943, Morgan Moore, Penguin Random House, 576, 22.01
+Book 483, John Davis, Penguin Random House, 194, 21.64
+Book 249, Jane Anderson, Penguin Random House, 359, 6.64
+Book 684, Chris Davis, Simon & Schuster, 178, 21.50
+Book 50, Morgan Wilson, Macmillan, 745, 48.88
+Book 483, Taylor Thomas, Penguin Random House, 899, 34.89
+Book 242, Casey Johnson, Simon & Schuster, 466, 47.83
+Book 650, John Davis, HarperCollins, 118, 8.08
+Book 999, Casey Thomas, Macmillan, 788, 38.29
+Book 537, Jordan Johnson, HarperCollins, 609, 32.88
+Book 65, Chris Brown, Macmillan, 775, 10.17
+Book 459, Emily Wilson, Macmillan, 341, 49.58
+Book 139, Sam Thomas, Simon & Schuster, 474, 13.77
+Book 19, Emily Taylor, Simon & Schuster, 828, 26.75
+Book 828, Sam Brown, Hachette, 657, 45.54
+Book 210, Emily Thomas, Macmillan, 654, 48.06
+Book 470, Jane Davis, Simon & Schuster, 136, 10.56
+Book 457, John Smith, Hachette, 415, 15.22
+Book 553, Chris Moore, Macmillan, 338, 24.32
+Book 608, Jordan Taylor, Macmillan, 227, 45.38
+Book 314, Alex Miller, HarperCollins, 609, 40.52
+Book 89, Jordan Miller, Hachette, 231, 40.35
+Book 810, Jordan Moore, Macmillan, 266, 10.50
+Book 729, Chris Smith, Simon & Schuster, 643, 47.10
+Book 738, Jane Anderson, Macmillan, 860, 46.18
+Book 306, Taylor Miller, Penguin Random House, 416, 45.02
+Book 440, John Davis, Macmillan, 663, 31.06
+Book 567, Taylor Davis, Macmillan, 171, 35.45
+Book 225, Sam Smith, Simon & Schuster, 641, 23.38
+Book 583, John Anderson, HarperCollins, 573, 39.28
+Book 748, Alex Thomas, HarperCollins, 928, 9.66
+Book 348, Jane Taylor, Simon & Schuster, 162, 10.98
+Book 74, Chris Brown, Hachette, 515, 42.94
+Book 744, Morgan Taylor, HarperCollins, 865, 27.27
+Book 759, Emily Johnson, Penguin Random House, 242, 29.40
+Book 760, Chris Thomas, Macmillan, 254, 49.88
+Book 916, Jane Wilson, HarperCollins, 270, 49.08
+Book 98, Taylor Smith, Simon & Schuster, 779, 12.19
+Book 549, John Smith, Simon & Schuster, 569, 38.61
+Book 769, Casey Smith, HarperCollins, 927, 22.04
+Book 601, Casey Smith, Macmillan, 943, 14.94
+Book 978, Jordan Johnson, Penguin Random House, 802, 16.64
+Book 574, Chris Davis, HarperCollins, 483, 18.27
+Book 890, Chris Wilson, Penguin Random House, 889, 36.73
+Book 143, Chris Davis, HarperCollins, 890, 27.60
+Book 178, Jordan Brown, Hachette, 517, 37.37
+Book 640, John Moore, HarperCollins, 184, 41.65
+Book 891, Sam Brown, Penguin Random House, 275, 49.48
+Book 881, Morgan Miller, HarperCollins, 475, 41.57
+Book 962, Jane Wilson, Hachette, 181, 39.05
+Book 119, Emily Thomas, Hachette, 143, 39.51
+Book 837, Morgan Smith, Macmillan, 980, 37.87
+Book 331, Jordan Taylor, Hachette, 125, 38.14
+Book 370, Jane Wilson, Penguin Random House, 979, 33.85
+Book 965, Taylor Moore, HarperCollins, 837, 46.47
+Book 408, Jane Johnson, Hachette, 848, 15.43
+Book 563, Casey Davis, Macmillan, 407, 37.03
+Book 275, Casey Taylor, Simon & Schuster, 208, 32.69
+Book 15, John Moore, HarperCollins, 209, 30.37
+Book 48, Emily Brown, Macmillan, 571, 18.37
+Book 758, Alex Wilson, Hachette, 547, 13.15
+Book 907, Taylor Johnson, HarperCollins, 958, 37.49
+Book 233, Taylor Anderson, Simon & Schuster, 728, 30.82
+Book 533, Emily Johnson, Penguin Random House, 768, 46.92
+Book 374, Alex Moore, Hachette, 880, 15.37
+Book 355, Casey Wilson, Simon & Schuster, 962, 35.48
+Book 786, John Smith, Simon & Schuster, 539, 8.55
+Book 952, Chris Brown, Penguin Random House, 224, 43.68
+Book 20, Jordan Davis, Penguin Random House, 446, 42.08
+Book 880, Sam Smith, Penguin Random House, 136, 15.88
+Book 240, Jane Miller, HarperCollins, 661, 39.84
+Book 991, Jordan Johnson, Hachette, 931, 24.43
+Book 596, Emily Anderson, HarperCollins, 996, 16.22
+Book 724, Casey Thomas, Hachette, 182, 6.45
+Book 206, Jordan Davis, Penguin Random House, 973, 30.58
+Book 445, Jane Miller, Hachette, 591, 49.07
+Book 166, Jordan Smith, Penguin Random House, 898, 45.90
+Book 256, Casey Brown, Hachette, 511, 11.91
+Book 666, Jordan Thomas, Simon & Schuster, 593, 24.57
+Book 263, Jane Anderson, Hachette, 764, 46.77
+Book 66, Emily Wilson, Simon & Schuster, 764, 14.14
+Book 251, Sam Brown, HarperCollins, 765, 21.22
+Book 799, Taylor Miller, HarperCollins, 754, 44.47
+Book 2, Casey Taylor, Macmillan, 634, 44.86
+Book 901, Jane Thomas, Simon & Schuster, 350, 33.62
+Book 658, Sam Davis, Hachette, 468, 44.43
+Book 127, Casey Brown, Hachette, 566, 29.64
+Book 618, Jordan Smith, Penguin Random House, 798, 38.41
+Book 253, Jane Taylor, Macmillan, 116, 8.77
+Book 978, Taylor Anderson, Macmillan, 683, 20.13
+Book 866, Alex Taylor, Hachette, 450, 22.68
+Book 357, Chris Johnson, Macmillan, 321, 34.81
+Book 782, Taylor Smith, Macmillan, 438, 7.10
+Book 243, Chris Anderson, Penguin Random House, 839, 47.71
